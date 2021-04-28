@@ -500,12 +500,6 @@ p {
 	}
 	/* End Hero */
 
-	/* Services Section */
-	#services .service-bottom .service-item {
-		flex-basis: 45%;
-		margin: 2.5%;
-	}
-	/* End Services Section */
 
 	/* Project */
 	#projects .project-item {
@@ -613,9 +607,6 @@ p {
 	}
 	/* End header */
 
-	#services .service-bottom .service-item {
-		flex-basis: 22%;
-		margin: 1.5%;
-	}
+	
 }
 
